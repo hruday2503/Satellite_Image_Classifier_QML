@@ -2,13 +2,14 @@
 
 This project implements Image classification system using Quantum Machine Learning . It combines classical image processing, quantum feature extraction using quantum circuits, and machine learning classification to categorize images from a dataset of aerial or satellite images.
 
-![Image 22-04-25 at 10 30 AM](https://github.com/user-attachments/assets/d2e66878-47fc-46d8-844f-40c788229cae)
+![Image 30-04-25 at 10 17 AM](https://github.com/user-attachments/assets/69a2848c-83c8-4eb3-8978-8eb99946f6ce)
 
 🖼️ Classical Image Preprocessing
 	•	Images are converted to grayscale, resized (e.g., 32x32 pixels), normalized, and flattened into feature vectors.
 
 ⚛️ Quantum Feature Extraction
 	•	Parameterized quantum circuits encode classical image data into quantum states.
+
 	•	Quantum gates (rotations and entanglement) capture high-dimensional correlations.
 	•	Measurements generate quantum features that are difficult to model classically.
 
